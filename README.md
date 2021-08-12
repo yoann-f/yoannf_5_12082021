@@ -1,13 +1,13 @@
-# yoannf_5_12082021
+![#](https://i.ibb.co/nk466zG/asterisque.png) P5 - Work Project ![#](https://i.ibb.co/nk466zG/asterisque.png)
 
 Lancer le serveur du projet 5 - OC
 
 
-Prérequis :
+![Prérequis](https://i.ibb.co/xzmTvJ3/prerequis-bandeau.png)
 * Avoir Node et npm d'installés en local sur sa machine.
 
 
-Installation :
+![Installation](https://i.ibb.co/mX2Rzwk/installation-bandeau.png)
 * Cloner le repository du projet.
 * A partir du dossier du projet, exécuter npm install.
 * Se placer ensuite au niveau du dossier "backend" gràce à la commande cd backend.
