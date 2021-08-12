@@ -11,7 +11,7 @@ Lancer le serveur du projet 5 - OC
 
 
 
-![Installation](https://i.ibb.co/mX2Rzwk/installation-bandeau.png) |
+![Installation](https://i.ibb.co/mX2Rzwk/installation-bandeau.png) | 
 ------------ | -------------
 * Cloner le repository du projet.
 * A partir du dossier du projet, exécuter npm install.
