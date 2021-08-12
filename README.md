@@ -14,9 +14,9 @@
 
 ### ![Installation](https://i.ibb.co/yXyx9S9/installation-bandeau.png)
 * Cloner le repository du projet.
-* A partir du dossier du projet, exécuter npm install.
-* Se placer ensuite au niveau du dossier "backend" gràce à la commande cd backend.
-* Lancer le serveur en exécutant la commande node server.
+* A partir du dossier du projet, exécuter ```npm install```.
+* Se placer ensuite au niveau du dossier "backend" gràce à la commande ```cd backend```.
+* Lancer le serveur en exécutant la commande ```node server```.
 * Le serveur s'éxécute.
 * Un message dans la console confirme que le serveur est démarré et indique également le port utilisé, par défaut 3000.
 
