@@ -1,15 +1,11 @@
-![#](https://i.ibb.co/nk466zG/asterisque.png) | P5 - Help Project | ![#](https://i.ibb.co/nk466zG/asterisque.png)
+![#](https://i.ibb.co/nk466zG/asterisque.png) | OC Projet 5 - Orinoco | ![#](https://i.ibb.co/nk466zG/asterisque.png)
 ----- | ----- | -----
 
 ## Lancer le serveur du projet 5 - OC
 
 
-
-
 ### ![Prérequis](https://i.ibb.co/xzmTvJ3/prerequis-bandeau.png)
 * Avoir Node et npm d'installés en local sur sa machine.
-
-
 
 
 ### ![Installation](https://i.ibb.co/yXyx9S9/installation-bandeau.png)
