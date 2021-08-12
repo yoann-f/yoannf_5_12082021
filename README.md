@@ -1,4 +1,4 @@
-![#](https://i.ibb.co/nk466zG/asterisque.png) P5 - Work Project ![#](https://i.ibb.co/nk466zG/asterisque.png)
+![#](https://i.ibb.co/nk466zG/asterisque.png) # P5 - Help Project ![#](https://i.ibb.co/nk466zG/asterisque.png)
 
 Lancer le serveur du projet 5 - OC
 
@@ -11,7 +11,8 @@ Lancer le serveur du projet 5 - OC
 
 
 
-![Installation](https://i.ibb.co/mX2Rzwk/installation-bandeau.png)
+![Installation](https://i.ibb.co/mX2Rzwk/installation-bandeau.png) |
+------------ | -------------
 * Cloner le repository du projet.
 * A partir du dossier du projet, exécuter npm install.
 * Se placer ensuite au niveau du dossier "backend" gràce à la commande cd backend.
